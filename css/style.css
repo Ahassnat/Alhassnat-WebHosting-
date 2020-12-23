@@ -37,6 +37,14 @@ p {
 img {
   width: 100%;
 }
+
+
+code,
+pre {
+  background: #333;
+  color: #fff;
+  padding: 10px;
+}
 /* NavBar */
 .navbar {
   background-color: var(--primary-color);
